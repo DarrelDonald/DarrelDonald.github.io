@@ -1,0 +1,14 @@
+
+.box {
+  float: left;
+  margin-right: 15px;
+  padding: 0em;
+}
+.cleared {
+  clear: both;
+}
+footer {
+  display: block;
+  background-color: rgb(136,136,136);
+  padding: 1em;
+}
